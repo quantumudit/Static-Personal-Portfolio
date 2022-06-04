@@ -65,7 +65,7 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 <!-- External Links -->
 
-[website_link]: https://quantumudit.github.io/
+[website_link]: https://quantumudit.github.io/Static-Personal-Protfolio/
 [company_website_link]: https://quantumudit.github.io/Dreamzone-Company-Website/
 
 <!-- Profile Links -->
