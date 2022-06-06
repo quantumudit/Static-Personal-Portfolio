@@ -22,6 +22,8 @@
 
 This project focuses on building a static personal portfolio website with HTML and CSS for a fictitious person named **James Phillips** who works as a full-time fullstack engineer at [DreamZone Inc.][company_website_link] and also as a part-time freelance web developer.
 
+> This website is non-responsive so, it looks better in laptop/desktop screens.
+
 ## Prerequisites
 
 The major skills that are required as prerequisite to fully understand this project are as follows:
@@ -29,9 +31,7 @@ The major skills that are required as prerequisite to fully understand this proj
 - HTML & CSS Basics
 - Website hosting on GitHub Pages
 
-In order to complete the project, I've used **Microsoft Visual Studio Code** as my text editor
-
-> The choice of text editor application might vary based on individual preferences & system settings.
+> The choice of editor application might vary based on individual preferences & system settings.
 
 ## Hosting
 
@@ -45,7 +45,7 @@ If you have any doubts, queries or, suggestions then, please connect with me in 
 
 [![Linkedin Badge][linkedinbadge]][linkedin] [![Twitter Badge][twitterbadge]][twitter]
 
-If you like my work then, you may support me at Patreon:
+If you like my work then, you may support me at [Patreon][patreon]:
 
 <a href="https://www.patreon.com/quantumudit" target="_blank">
 <img src="https://i.ibb.co/94bkJwp/become-a-patreon.png" alt="become-a-patreon" border="0" width="170" height="50">
@@ -72,6 +72,7 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 [linkedin]: https://www.linkedin.com/in/uditkumarchatterjee/
 [twitter]: https://twitter.com/quantumudit
+[patreon]: https://www.patreon.com/quantumudit
 
 <!-- Shields Profile Links -->
 
